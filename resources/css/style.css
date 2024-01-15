@@ -46,3 +46,9 @@ color: gray;
 coming_soon > image {
     margin-top: 50px;
 }
+
+footer {
+    font-size: 21px;
+    font-weight: normal;
+    text-align: left;
+}
