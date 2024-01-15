@@ -42,3 +42,7 @@ aside {
 text-align: right;
 color: gray;
 }
+
+coming_soon > image {
+    margin-top: 50px;
+}
