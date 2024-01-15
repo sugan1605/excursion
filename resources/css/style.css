@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+
+
+h1 {
+
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    
+}
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+}
+
+body {
+
+    background-color: black;
+    text-align: center;
+    font-family: Verdana;
+}
+
+p, a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.personal {
+    font-size: 21px;
+    color: gray;
+}
+
+aside {
+text-align: right;
+color: gray;
+}
